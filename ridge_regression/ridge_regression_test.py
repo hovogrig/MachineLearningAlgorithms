@@ -22,7 +22,7 @@ print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
 
 # Train ridge regression model
-ridge = RidgeRegression(alpha=0.01)  # You can adjust the alpha (λ) parameter here
+ridge = RidgeRegression(alpha=0.01)
 ridge.fit(X_train, y_train)
 
 
