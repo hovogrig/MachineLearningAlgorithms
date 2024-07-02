@@ -15,6 +15,8 @@ This repository contains Python implementations of various machine learning algo
 - Python 3.x
 - NumPy
 - scikit-learn
+- seaborn
+- matplotlib
 
 ## Installation
 
