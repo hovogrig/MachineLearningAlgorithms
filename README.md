@@ -8,6 +8,7 @@ This repository contains Python implementations of various machine learning algo
 2. Linear Regression
 3. Logistic Regression
 4. Ridge Regression
+5. PCA
 
 ## Requirements
 
